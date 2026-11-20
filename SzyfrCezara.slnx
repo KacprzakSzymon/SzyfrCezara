@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SzyfrCezara/SzyfrCezara.csproj" />
+  <Project Path="Test/Test.csproj" />
+</Solution>
